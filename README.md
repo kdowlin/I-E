@@ -1,4 +1,4 @@
-# I-E
+# I-E District
 
 I&E District creates a decentralized import export marketplace to support cross border trade using crypto based payments.
 
